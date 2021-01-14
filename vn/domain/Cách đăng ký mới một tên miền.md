@@ -16,4 +16,4 @@ Tên miền mà bạn đã nhập trước đó cũng sẽ được thêm vào h
 
 Ở bước tiếp theo, bạn cần phải nhập thông tin chủ thể của tên miền. Mặc định AWS sẽ chọn sẵn đăng ký cho bạn 1 năm, bạn cũng có thể tăng thêm số năm mà bạn muốn sử dụng ở giỏ hàng bên phải. Sau đó xuống cuối trang click vào nút **Continue**.
 
-![Register domain](https://imgur.com/PO1edd6.jpg)
+![Register domain](https://imgur.com/bZcUx6k.jpg)
