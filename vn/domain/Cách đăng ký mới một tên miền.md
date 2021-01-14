@@ -25,3 +25,11 @@ Trong phần **Terms and Conditions**, bạn phải check vào *I have read and 
 Sau khi check đồng ý **Terms and Conditions**, click vào nút **Complete Order** để hoàn thành.
 
 ![Register domain](https://imgur.com/nCyCodX.jpg)
+
+Sau khi click vào nút **Complete Order**, tên miền mà bạn đăng ký được đưa vào mục **Domain > Pending requests** trên menu bên trái để đợi được xử lý đăng ký. Có thể mất đến 10 phút quá trình đăng ký mới hoàn thành hoặc cũng có thể lâu hơn. 
+
+Tuy nhiên, việc thanh toán cho tên miền phụ thuộc vào thông tin thanh toán của bạn ở phần **Billing** có được thực hiện thành công hay không. Sau khi thanh toán thành công bạn mới có thể sử dụng tên miền đã đăng ký. 
+
+Nếu thanh toán không thành công có thể là do số tiền trong tài khoản của bạn không đủ để thanh toán. Bạn trở về trang [Route 53 > Dashboard](https://console.aws.amazon.com/route53/v2/home#Dashboard) sẽ thấy có một thông báo thanh toán không thành công ở đó.
+
+![Register domain payment failed](https://imgur.com/BZQlITj.jpg)
