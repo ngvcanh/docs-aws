@@ -13,3 +13,7 @@ Bạn sẽ được chuyển đến trang kiểm tra lại tên miền, tại đ
 Tên miền mà bạn đã nhập trước đó cũng sẽ được thêm vào hàng đợi của giỏ hàng bên phải. Sau khi kiểm tra đã đúng tên miền bạn muốn chọn, click vào nút **Continue**.
 
 ![Register domain](https://imgur.com/bHzoMuu.jpg)
+
+Ở bước tiếp theo, bạn cần phải nhập thông tin chủ thể của tên miền. Mặc định AWS sẽ chọn sẵn đăng ký cho bạn 1 năm, bạn cũng có thể tăng thêm số năm mà bạn muốn sử dụng ở giỏ hàng bên phải. Sau đó xuống cuối trang click vào nút **Continue**.
+
+![Register domain](https://imgur.com/PO1edd6.jpg)
