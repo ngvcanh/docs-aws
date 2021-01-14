@@ -14,6 +14,14 @@ Tên miền mà bạn đã nhập trước đó cũng sẽ được thêm vào h
 
 ![Register domain](https://imgur.com/bHzoMuu.jpg)
 
-Ở bước tiếp theo, bạn cần phải nhập thông tin chủ thể của tên miền. Mặc định AWS sẽ chọn sẵn đăng ký cho bạn 1 năm, bạn cũng có thể tăng thêm số năm mà bạn muốn sử dụng ở giỏ hàng bên phải. Sau đó xuống cuối trang click vào nút **Continue**.
+Ở bước tiếp theo, bạn cần phải nhập thông tin chủ thể của tên miền. Mặc định AWS sẽ chọn sẵn đăng ký cho bạn 1 năm sử dụng tên miền mà bạn đã chọn, bạn cũng có thể tăng thêm số năm mà bạn muốn sử dụng ở giỏ hàng bên phải. Sau đó xuống cuối trang click vào nút **Continue**.
 
 ![Register domain](https://imgur.com/bZcUx6k.jpg)
+
+Cuối cùng, bạn được chuyển đến trang xác nhận lại thông tin chủ thể của tên miền, ở bước này bạn vẫn có thể thay đổi số năm sử dụng tên miền. AWS sẽ hỏi bạn có muốn tự động gia hạn tên miền hay không. Nếu bạn muốn tự động gia hạn tên miền bạn chọn **Enable** ở phần *Do you want to automatically renew your domain?*
+
+Trong phần **Terms and Conditions**, bạn phải check vào *I have read and agree to the AWS Domain Name Registration Agreement* mới có thể hoàn thành đăng ký.
+
+Sau khi check đồng ý **Terms and Conditions**, click vào nút **Complete Order** để hoàn thành.
+
+![Register domain](https://imgur.com/nCyCodX.jpg)
